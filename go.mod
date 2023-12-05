@@ -1,4 +1,4 @@
-module github.com/bndr/gojenkins
+module github.com/vfadc/gojenkins
 
 go 1.17
 
